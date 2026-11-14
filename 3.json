@@ -2,12 +2,12 @@
   "Character": {
     "Name": "Noob",
     "BodyColors": {
-      "LeftArm": "#ffffff",
-      "RightArm": "#ffffff",
-      "LeftLeg": "#ffffff",
-      "RightLeg": "#ffffff",
-      "Torso": "#ffffff",
-      "Head": "#ffffff"
+      "LeftArm": "#fcfc03",
+      "RightArm": "#fcfc03",
+      "LeftLeg": "#03fc1c",
+      "RightLeg": "#03fc1c",
+      "Torso": "#0f03fc",
+      "Head": "#fcfc03"
     }
   }
 }
